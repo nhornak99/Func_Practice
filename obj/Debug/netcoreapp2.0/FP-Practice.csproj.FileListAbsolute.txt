@@ -1,0 +1,11 @@
+D:\Personal Projects\FP-Practice\obj\Debug\netcoreapp2.0\FP-Practice.csproj.CoreCompileInputs.cache
+D:\Personal Projects\FP-Practice\obj\Debug\netcoreapp2.0\FP-Practice.AssemblyInfoInputs.cache
+D:\Personal Projects\FP-Practice\obj\Debug\netcoreapp2.0\FP-Practice.AssemblyInfo.cs
+D:\Personal Projects\FP-Practice\bin\Debug\netcoreapp2.0\FP-Practice.deps.json
+D:\Personal Projects\FP-Practice\bin\Debug\netcoreapp2.0\FP-Practice.runtimeconfig.json
+D:\Personal Projects\FP-Practice\bin\Debug\netcoreapp2.0\FP-Practice.runtimeconfig.dev.json
+D:\Personal Projects\FP-Practice\bin\Debug\netcoreapp2.0\FP-Practice.dll
+D:\Personal Projects\FP-Practice\bin\Debug\netcoreapp2.0\FP-Practice.pdb
+D:\Personal Projects\FP-Practice\obj\Debug\netcoreapp2.0\FP-Practice.dll
+D:\Personal Projects\FP-Practice\obj\Debug\netcoreapp2.0\FP-Practice.pdb
+D:\Personal Projects\FP-Practice\obj\Debug\netcoreapp2.0\FP-Practice.csprojAssemblyReference.cache
